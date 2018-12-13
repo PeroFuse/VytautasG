@@ -11,5 +11,8 @@
         <module name="xmlnjsk4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="VytautasG" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
